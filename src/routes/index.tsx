@@ -28,9 +28,9 @@ function Index() {
     <main className="min-h-screen">
       <Navbar />
       <Hero />
-      <About />
       <Projects />
       <Skills />
+      <About />
       <Contact />
     </main>
   );
